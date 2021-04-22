@@ -1,0 +1,21 @@
+#jumbobackground{
+	background-image: url("images/kidsheader3.jpg");
+  	background-size: cover;
+  	background-repeat: no-repeat;
+  	height:350px;	
+}
+.headtext{
+	color: black;
+	text-align: center; 
+	vertical-align: middle;
+	margin: 60px
+}
+.container{
+	max-width: 100%;
+	align-content: center;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+h2{
+	text-align: center;
+}
